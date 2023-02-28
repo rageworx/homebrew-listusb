@@ -6,7 +6,7 @@ class Rsdic < Formula
     homepage "https://github.com/rageworx/listusb"
     url "https://github.com/rageworx/listusb/releases/download/v0.1.0.5/listusb-macOS11-ub-v0.1.0.5.tar.gz"
     sha256 "e51b9c38964db4cd75edaeddcd3e7fe3d1350ccf7a1ecf5f04934cfb0adc306c"
-    version "0.1.0.5""
+    version "0.1.0.5"
 
     def install
       bin.install "listusb"

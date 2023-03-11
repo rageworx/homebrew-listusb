@@ -4,9 +4,9 @@
 class Listusb < Formula
     desc "A tool for list usb devices for macOS universal"
     homepage "https://github.com/rageworx/listusb"
-    url "https://github.com/rageworx/listusb/releases/download/v0.1.0.5/listusb-macOS11-ub-v0.1.0.5.tar.gz"
-    sha256 "e51b9c38964db4cd75edaeddcd3e7fe3d1350ccf7a1ecf5f04934cfb0adc306c"
-    version "0.1.0.5"
+    url "https://github.com/rageworx/listusb/releases/download/v0.2.0.10/listusb-macOS11-ub-v0.2.0.10.tar.gz"
+    sha256 "8722d0c0a728341f0f6a922e94220e5e99a94c94635bdc8991d263627954fe6e"
+    version "0.2.0.10"
 
     def install
       bin.install "listusb"
